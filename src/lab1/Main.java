@@ -1,8 +1,19 @@
+package lab1;
+
 import lab1.LucasNumber;
 
 import java.util.Scanner;
 
+/**
+ * Class where we use our methods
+ * @author  Chernysh Yaryna
+ * @version 1.0
+ */
 public class Main {
+    /**
+     * Method where we use methods from other classes
+     * @param args This used to read from command prompt
+     */
     public static void main(String[] args) {
         System.out.println("Enter which Lucas number you want to get:");
         Scanner scan = new Scanner(System.in);

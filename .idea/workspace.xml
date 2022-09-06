@@ -68,7 +68,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/lab1/LucasNumber.java</url>
-          <line>14</line>
+          <line>36</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
