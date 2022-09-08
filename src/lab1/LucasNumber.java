@@ -14,7 +14,13 @@ public class LucasNumber {
      * Stores data number
      */
     int number;
+    /**
+     * Value of golden ratio
+     */
     public static final double G = ((1+Math.sqrt(5))/2);
+    /**
+     * Sets the order of number
+     */
     public LucasNumber( int n){
         this.n=n;
     }
